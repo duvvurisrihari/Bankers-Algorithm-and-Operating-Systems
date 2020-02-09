@@ -7,7 +7,7 @@ be allowed to continue
 
 ## Architecture Diagram
 
-<img width="900" alt="architecture" src="https://github.com/SJSUFall2019-CMPE272/brokenPhone/blob/master/272%20Architechture%202.jpeg">
+<img width="900" alt="architecture" src="https://https://github.com/duvvurisrihari/Bankers-Algorithm-and-Operating-Systems/blob/master/deadlock.png">
 
 ## Hill Statement
  **Who** : A Bank Worker 
