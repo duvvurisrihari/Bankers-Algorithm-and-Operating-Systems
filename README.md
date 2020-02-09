@@ -16,6 +16,9 @@ be allowed to continue
  
  **Wow** : In considerably lower time than traditional way of finding out
 
+## Outputs
+
+
 ## Abstract
 
 The algorithm was developed in the design process for the operating system and
