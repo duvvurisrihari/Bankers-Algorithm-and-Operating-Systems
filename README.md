@@ -5,9 +5,11 @@ maximum possible amounts of all resources, and then makes a "s-state" check to t
 deadlock conditions for all other pending activities, before deciding whether allocation should 
 be allowed to continue
 
-## Architecture Diagram
+## Application
 
 <img width="400" alt="architecture" src="deadlock.png">
+
+
 
 ## Hill Statement
  **Who** : A Bank Worker 
@@ -15,11 +17,10 @@ be allowed to continue
  **What** : Can check whether it is safe to give money or not
  
  **Wow** : In considerably lower time than traditional way of finding out
+ 
+ ## Architecture Diagram
 
-## Outputs
-
-
-<img width="400" alt="architecture" src="unnamed.png">
+<img width="400" alt="architecture" src="deadlock.png">
 
 
 ## Abstract
@@ -53,6 +54,11 @@ money in such a way that it can no longer satisfy the needs of all its customers
 algorithm, the bank ensures that when customers request money the bank never leaves a safe
 state. If the customer's request does not cause the bank to leave a safe state, the cash will be
 allocated; otherwise the customer must wait until some other customer deposits enough.
+
+## Outputs
+
+
+<img width="400" alt="architecture" src="unnamed.png">
 
 ## Technology stack
 **Programming languages & Libraries**: C,C++
