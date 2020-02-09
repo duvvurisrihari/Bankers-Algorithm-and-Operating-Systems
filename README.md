@@ -7,7 +7,7 @@ be allowed to continue
 
 ## Application
 
-<img width="400" alt="architecture" src="deadlock.png">
+<img width="600" alt="architecture" src="unnamed.png">
 
 
 
