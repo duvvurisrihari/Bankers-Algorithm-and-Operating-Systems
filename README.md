@@ -19,6 +19,9 @@ be allowed to continue
 ## Outputs
 
 
+<img width="400" alt="architecture" src="unnamed.png">
+
+
 ## Abstract
 
 The algorithm was developed in the design process for the operating system and
