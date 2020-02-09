@@ -1,5 +1,5 @@
 # Bankers Algorithm
-An application which Bankers algorithm is a resource allocation and deadlock avoidance algorithm 
+Bankers algorithm is a resource allocation and deadlock avoidance algorithm 
 developed by Edsger Dijkstra that tests for safety by simulating the allocation of predetermined 
 maximum possible amounts of all resources, and then makes a "s-state" check to test for possible 
 deadlock conditions for all other pending activities, before deciding whether allocation should 
