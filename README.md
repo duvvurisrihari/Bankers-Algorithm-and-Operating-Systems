@@ -7,7 +7,7 @@ be allowed to continue
 
 ## Application
 
-<img width="600" alt="architecture" src="unnamed.png">
+<img width="800" alt="architecture" src="unnamed.png">
 
 
 
