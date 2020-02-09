@@ -53,12 +53,6 @@ allocated; otherwise the customer must wait until some other customer deposits e
 
 
 
- 
-## Persona
-
-<img height="900" width="800" alt="architecture" src="https://github.com/SJSUFall2019-CMPE272/brokenPhone/blob/master/Persona%40Sarah%20Brooks.png">
-
-
 ## Contributors
 
 D Venkata Sai Sri Hari
