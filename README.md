@@ -58,7 +58,7 @@ allocated; otherwise the customer must wait until some other customer deposits e
 ## Outputs
 
 
-<img width="400" alt="architecture" src="unnamed.png">
+<img width="650" alt="architecture" src="unnamed.png">
 
 ## Technology stack
 **Programming languages & Libraries**: C,C++
