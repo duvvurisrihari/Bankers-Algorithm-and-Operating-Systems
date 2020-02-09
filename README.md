@@ -7,7 +7,7 @@ be allowed to continue
 
 ## Architecture Diagram
 
-<img width="900" alt="architecture" src="deadlock.png">
+<img width="400" alt="architecture" src="deadlock.png">
 
 ## Hill Statement
  **Who** : A Bank Worker 
